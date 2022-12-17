@@ -20,9 +20,9 @@ OTT 서비스에서 고려할 만한 UI/UX에 대한 고민 및 인터랙션 구
 
 ## 기술 스택
 
-| JavaScript | TypeScript |  React   |  Node   |
-| :--------: | :--------: | :------: | :-----: |
-|   ![js]    |   ![ts]    | ![react] | ![node] |
+| JavaScript | TypeScript |  React   |  Node   |  Styled-component   |
+| :--------: | :--------: | :------: | :-----: | :-----------------: |
+|   ![js]    |   ![ts]    | ![react] | ![node] | ![styled-component] |
 
 <br>
 
@@ -54,3 +54,4 @@ MIT &copy; [JSCreation](mailto:purplelow1@gmail.com)
 [ts]: /src/assets/svg/typescript.svg
 [react]: /src/assets/svg/react.svg
 [node]: /src/assets/svg/node.svg
+[styled-component]: /src/assets/images/styled-components.png
